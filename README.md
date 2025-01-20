@@ -9,7 +9,9 @@ This repository contains a structured collection of Jupyter Notebooks and resour
 The repository is organized as follows:
 
 ### `notebooks/`
+
 Contains detailed Jupyter Notebooks covering key topics in quantum computing:
+
 - **Bra-Ket Notation**: Representation of quantum states and operations using Dirac notation.
 - **Tensor Product and Kronecker Product**: Mathematical foundations and their applications in quantum systems.
 - **Single Qubit States**: Representation, visualization, and manipulation of individual qubits.
@@ -17,14 +19,17 @@ Contains detailed Jupyter Notebooks covering key topics in quantum computing:
 - **Quantum Gates**: Implementation and effects of standard quantum gates (e.g., Pauli gates, Hadamard, CNOT).
 
 ### `scripts/`
+
 Standalone Python scripts for:
+
 - Quantum gate simulations.
 - State vector operations.
 - Custom utility functions for quantum computing.
 
-### `resources/`
+### `Resources/`
+
 Supplementary material, including:
-- References to textbooks and research papers.
-- Links to online resources and documentation for quantum computing frameworks.
+
+- Hermitian Adjoint from Wikipedia
 
 ---
